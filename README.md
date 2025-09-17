@@ -1,4 +1,13 @@
 # How do Language Models Generate Slang: A Systematic Comparison Between Human and Machine-Generated Slang Usages
+## Authors
+
+- **Siyang Wu**  
+  Data Science Institute, University of Chicago, Chicago, Illinois  
+  📧 [siyangwu@uchicago.edu](mailto:siyangwu@uchicago.edu)
+
+- **Zhewei Sun**  
+  Toyota Technological Institute at Chicago, Chicago, Illinois  
+  📧 [zsun@ttic.edu](mailto:zsun@ttic.edu)
 
 ## Overview
 
